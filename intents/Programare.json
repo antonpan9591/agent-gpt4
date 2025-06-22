@@ -1,0 +1,39 @@
+{
+  "id": "3fffbbbb-236e-40ac-80a8-2e6cc1b66b78",
+  "name": "Programare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Desigur! Vă rog să-mi spuneți ziua și ora dorită, precum și numele dumneavoastră",
+            "Programul nostru este de luni până vineri, între orele 09:00 și 18:00. Sâmbăta suntem deschiși doar cu programare.”",
+            "Ne găsiți pe Strada mumiei nr. 12, București, sector 1. Suntem aproape de stația de metrou Aviatorilor.”",
+            "Consultația costă 100 RON. Prețurile pentru tratamente variază în funcție de intervenție. Vă putem oferi detalii exacte la telefon.",
+            "Vă rugăm să ne contactați telefonic la [NUMĂR] pentru a anula programarea cât mai rapid."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

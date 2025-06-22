@@ -1,0 +1,262 @@
+[
+  {
+    "id": "09a1da0c-6051-41ea-b76c-f9632030f4a5",
+    "data": [
+      {
+        "text": "Nu mai pot veni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6273f17-7417-48e8-9daf-ae271a3f35ec",
+    "data": [
+      {
+        "text": "Pot anula programarea ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a066613-4310-4bb0-87ba-57216d940fdc",
+    "data": [
+      {
+        "text": "Pot anula întâlnirea ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f33acaa5-8e4b-4d1d-841f-7f451b0c9c61",
+    "data": [
+      {
+        "text": "Vreau să anulez o programare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff476886-6e8a-4cc3-9b5f-9a7378e922e6",
+    "data": [
+      {
+        "text": "Ce pret are un detartraj?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98f8da6e-170e-4fd4-9d74-8097922bdc80",
+    "data": [
+      {
+        "text": "Care sunt tarifele ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3707a67-1962-4af3-a363-c2ce0dcab784",
+    "data": [
+      {
+        "text": "Cât costă o consultație?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da847038-d801-4e71-a48a-85427812aecf",
+    "data": [
+      {
+        "text": "Cum ajung la voi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "414b4df1-967a-452e-a32a-22ca98d46173",
+    "data": [
+      {
+        "text": "Care este adresa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "956442c8-0c31-439c-a319-568c63b27ecc",
+    "data": [
+      {
+        "text": "Care e adresa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dabf7cd-1f8a-4321-a042-edb2070ce2d6",
+    "data": [
+      {
+        "text": "Care este adresa cabinetului ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6073c96e-a6f2-490b-b923-648f9a00defc",
+    "data": [
+      {
+        "text": "Unde sunteți?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9569776c-9544-4935-b3d5-3e5f3eca3699",
+    "data": [
+      {
+        "text": "La ce oră deschideți ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "879b6448-8754-4124-969e-79e35fdf4154",
+    "data": [
+      {
+        "text": "Până la ce ora lucrați?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "054c030f-cd22-47c6-a35b-178264be45da",
+    "data": [
+      {
+        "text": "La ce oră deschideți?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22573755-8a62-4412-821a-5d0c87051f58",
+    "data": [
+      {
+        "text": "Care este programul ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9458b474-1f6e-4c8d-9c3a-e43502731f40",
+    "data": [
+      {
+        "text": "Cand aveti liber ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66667fda-7fa6-4138-be96-4464b892e5eb",
+    "data": [
+      {
+        "text": "Faceti programari ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23fb41c0-eaf5-4dc0-af18-fa69cf89b7b5",
+    "data": [
+      {
+        "text": "Pot veni maine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8841aefb-5da7-4030-8db7-69f225099ba9",
+    "data": [
+      {
+        "text": "Vreau o programare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
